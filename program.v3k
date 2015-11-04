@@ -1,0 +1,8 @@
+# Example V3K assembly program
+mov r1, #0
+mov r2, #0
+mov r3, #65535
+mov r4, #65535
+line r1, r2, r3, r4
+add r3, r4, r5
+ldr r5, r6
